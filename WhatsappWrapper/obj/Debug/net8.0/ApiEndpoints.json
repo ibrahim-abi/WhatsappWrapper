@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "WhatsappWrapper.Controllers.DriverController",
+    "Method": "StopDriver",
+    "RelativePath": "api/Driver/stopdriver",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappWrapper.Controllers.GroupWrapper",
+    "Method": "PostFile",
+    "RelativePath": "GroupWrapper/api/wpfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileGroupModel",
+        "Type": "WhatsappWrapper.Models.Internal.FileGroupModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappWrapper.Controllers.GroupWrapper",
+    "Method": "PostImage",
+    "RelativePath": "GroupWrapper/api/wpimage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappWrapper.Controllers.GroupWrapper",
+    "Method": "PostMessage",
+    "RelativePath": "GroupWrapper/api/wpmessage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappWrapper.Controllers.Health",
+    "Method": "HealthSummary",
+    "RelativePath": "Health/api/Health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@WhatsappWrapper_HostAddress = http://localhost:5041
+
+GET {{WhatsappWrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

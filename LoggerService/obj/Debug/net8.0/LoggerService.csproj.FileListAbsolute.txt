@@ -1,0 +1,12 @@
+E:\WhatsappWrapper\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+E:\WhatsappWrapper\LoggerService\bin\Debug\net8.0\LoggerService.dll
+E:\WhatsappWrapper\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.dll
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+E:\WhatsappWrapper\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
